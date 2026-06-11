@@ -10,9 +10,9 @@
 
   .card {
     background: #fff;
-    width: 380px;
+    width: 400px;
     border-radius: 16px;
-    padding: 40px 35px;
+    padding: 30px;
     box-shadow: 0 8px 30px rgba(0,0,0,0.15);
     text-align: center;
   }
